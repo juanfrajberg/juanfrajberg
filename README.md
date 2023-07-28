@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hello, I am <a href="https://github.com/juanfrajberg">Juan Frajberg</a> 👋</h1>
+<img width=750px height=568.125px src="https://github.com/juanfrajberg/juanfrajberg/assets/76226647/6e1da43c-ba54-46d1-8717-ecfe273e1703"></img>
+</div>
 
-<!--
-**juanfrajberg/juanfrajberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 💡
+- <p>Full stack programmer 👨‍💻</p>
+- <p>Specialized in app development for Android 📱</p>
+- <p>Android Studio and Java 🛠️</p>
 
-Here are some ideas to get you started:
+## Current project 🤩
+- <p><a href="https://github.com/juanfrajberg/OportunidadZapata">Oportunidad Zapata</a>, a job board created by Martín Zapata, for the community 💼🤝</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Also here 🤓
+- <p><a href="https://instagram.com/juanfrajberg">Instagram</a> 🌐</p>
+- <p><a href="https://twitter.com/juanfrajberg">Twitter</a> 🌐</p>
+
+## GitHub stats 📊
+<p align="center">
+<a href="https://github.com/JuanFrajberg">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanFrajberg&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanFrajberg&layout=compact&langs_count=8&theme=prussian"/>
+</a>
+</p>
