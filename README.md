@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello, I am <a href="https://github.com/juanfrajberg">Juan Frajberg</a> 👋</h1>
-<img width=750px height=568.125px src="https://github.com/juanfrajberg/juanfrajberg/assets/76226647/6e1da43c-ba54-46d1-8717-ecfe273e1703"></img>
+<img src="https://github.com/juanfrajberg/juanfrajberg/assets/76226647/6e1da43c-ba54-46d1-8717-ecfe273e1703](https://github.com/juanfrajberg/juanfrajberg/assets/76226647/9ad51226-38b7-4aec-9bac-7876509de400)"></img>
 </div>
 
 ## About me 💡
