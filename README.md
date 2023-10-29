@@ -8,12 +8,38 @@
 - <p>Specialized in app development for Android 📱</p>
 - <p>Android Studio and Java 🛠️</p>
 
+## My technologies 🧠
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"/> 
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"/>
+  <img src="https://www.svgrepo.com/show/31053/xml.svg" width="65" height="65" alt="XML"/>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="JetBrains"/>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play"/>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript"/>
+</p>
+
 ## Current project 🤩
 - <p><a href="https://github.com/juanfrajberg/OportunidadZapata">Oportunidad Zapata</a>, a job board created by Martín Zapata, for the community 💼🤝</p>
 
 ## Also here 🤓
 - <p><a href="https://instagram.com/juanfrajberg">Instagram</a> 🌐</p>
 - <p><a href="https://twitter.com/juanfrajberg">Twitter</a> 🌐</p>
+- <p><a href="nkedin.com/in/juanmanuelfrajberg/">LinkedIn</a> 🌐</p>
 
 ## GitHub stats 📊
 <p align="center">
