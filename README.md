@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I am <a href="https://github.com/juanfrajberg">Juan Frajberg</a> 👋</h1>
 <img src="https://github.com/juanfrajberg/juanfrajberg/assets/76226647/6e1da43c-ba54-46d1-8717-ecfe273e1703](https://github.com/juanfrajberg/juanfrajberg/assets/76226647/9ad51226-38b7-4aec-9bac-7876509de400)"></img>
+  
 </div>
 
 ## About me 💡
@@ -49,3 +50,6 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanFrajberg&layout=compact&langs_count=8&theme=prussian"/>
 </a>
 </p>
+
+## Thanks for visiting my profile! 🤗
+<img src="https://github.com/juanfrajberg/juanfrajberg/assets/76226647/ba3e8709-6bf5-4bfa-8244-4eff512684e9"></img>
