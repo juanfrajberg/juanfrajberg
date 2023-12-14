@@ -51,5 +51,22 @@
 </a>
 </p>
 
+## Extra information 🤪
+
+>[!NOTE]
+> Learning Kotlin at the moment and planning to learn Jetpack Compose too 📚
+
+>[!TIP]
+> Feel free to ask me any question, I'm always glad to help 😸
+
+>[!IMPORTANT]
+> I strongly believe teamwork makes the dream work 🚀
+
+>[!CAUTION]
+> I'm really unhappy after Google Play's new policy to publish applications 😠
+
+>[!WARNING]
+> If my code isn't working I will probably spend several days trying to fix it 🛠
+
 ## Thanks for visiting my profile! 🤗
 <img src="https://github.com/juanfrajberg/juanfrajberg/assets/76226647/ba3e8709-6bf5-4bfa-8244-4eff512684e9"></img>
